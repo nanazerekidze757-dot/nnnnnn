@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    width: 700px;
+    height: 450px;
+    border-radius: 9px;
+    display: flex;
+   
+}
+
+.container img{
+    width: 196px;
+    height: 450px;
+
+}
+.container button{
+    background-color:hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    border: none;
+    border-radius: 9px;
+    padding: 10px;
+   
+}
+.container .text3{
+    color: hsl(158, 36%, 37%) ;
+    padding: 40px;
+  
+}
+.container .text2{
+    margin-bottom: 26px;
+    
+}
+.container .text4{
+    border: 1px  black;
+    text-decoration: line-through;
+    padding: 60px;
+}
+
